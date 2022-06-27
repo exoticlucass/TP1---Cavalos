@@ -1,0 +1,50 @@
+body {
+    background-color: #2E3440;
+    margin-top: 0;
+}
+
+p {
+    color: #D8DEE9;
+    font-size: 18px;
+}
+
+h1 {
+    color: #B48EAD;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 52px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+h2 {
+    color: #D8DEE9;
+    font-size: 30px;
+}
+
+a:link {
+    color: #B48EAD;
+}
+
+a:visited {
+    color: #5E81AC;
+}
+
+a:hover {
+    color: #EBCB8B;
+}
+
+#Logo {
+    float: left;
+    margin-top: 10px;
+    position: center;
+    filter: invert(1);
+}
+
+#Sol {
+    float: right;
+    margin-top: 10px;
+}
+
+iframe img {
+    position: center;
+}
