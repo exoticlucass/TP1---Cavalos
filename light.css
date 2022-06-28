@@ -67,7 +67,7 @@ iframe {
   justify-content: center;
 }
 
-.Artigos-individual {
+.Artigos-individual a {
   color: #4b3621;
   text-decoration: none;
   font-size: 28px;
@@ -127,7 +127,4 @@ iframe {
 .texto{
   margin-left: 20%;
   margin-right: 20%;
-}
-.deco{
-  text-decoration: dashed !important;
 }
