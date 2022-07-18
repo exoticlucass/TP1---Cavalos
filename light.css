@@ -204,4 +204,11 @@ img:not(#Logo) {
 .topo{
   margin-top: 100px;
 }
-
+.corridas h2{
+  text-align: center;
+}
+.corridas p{
+  text-align: justify;
+  margin-right: 50px;
+  margin-left: 50px;
+}
