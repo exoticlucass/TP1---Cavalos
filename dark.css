@@ -25,6 +25,7 @@ body {
     margin-left: 10%;
     margin-top: 7%;
   }
+  li,
   p {
     font-size: 20px;
     color: #d1cbbf;
