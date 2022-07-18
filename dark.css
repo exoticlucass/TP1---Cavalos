@@ -23,8 +23,8 @@ body {
   p {
     font-size: 20px;
     color: #d1cbbf;
-    margin-left: 3px;
-    margin-right: 3px;
+    margin-left: 12px;
+    margin-right: 12px;
   }
   
   h1 {
@@ -39,8 +39,8 @@ body {
   h2 {
     color: #D8DEE9;
     font-size: 30px;
-    margin-left: 2px;
-    margin-right: 2px;  
+    margin-left: 4px;
+    margin-right: 4px;  
   }
   
   a:hover {
