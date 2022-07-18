@@ -4,7 +4,11 @@ body {
   margin-top: 0;
   margin: 0;
 }
-
+#Principal {
+  margin-top: 100px;
+  margin-bottom: -75px;
+  
+}
 .Pagina-inicial {
   color: #2e3440;
   font-size: 25px;
