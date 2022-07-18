@@ -194,3 +194,12 @@ img:not(#Logo) {
 iframe{
       text-align: center;
 }
+.racas{
+  text-align: center;
+}
+.racas p{
+  border-radius: 200px;
+  background-color: antiquewhite;
+  padding: 50px 50px 40px 40px;
+  margin: 30px 60px 30px 60px;
+}
