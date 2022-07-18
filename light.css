@@ -23,7 +23,8 @@ body {
   margin-left: 10%;
   margin-top: 7%;
 }
-p {
+li,
+ p {
   font-size: 20px;
   color: #2e3440;
   margin-left: 12px;
