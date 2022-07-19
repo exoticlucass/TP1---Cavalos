@@ -5,8 +5,7 @@ body {
   margin: 0;
 }
 #img-cavalo {
-margin-top: 100px;
-margin-bottom: -50px;
+margin-top: 150px;
 }
 #Titulo-principal {
   margin-top: 15%;
@@ -231,7 +230,7 @@ img:not(#Logo) {
   text-decoration: none;
 }
 .escuro #img-cavalo {
-margin-top: 200px;
+margin-top: 150px;
 }
 .escuro .Pagina-inicial {
   color: #D8DEE9;
