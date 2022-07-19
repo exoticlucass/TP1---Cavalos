@@ -5,8 +5,8 @@ body {
   margin: 0;
 }
 #Principal {
-  margin-top: 100px;
-  margin-bottom: -75px;
+  margin-top: 14%;
+  margin-bottom: -11%;
   
 }
 .Pagina-inicial {
@@ -36,15 +36,15 @@ h1 {
   font-family: "Montserrat", sans-serif;
   font-size: 52px;
   text-align: center;
-  padding-right: 14px;
+  padding-right: 2%;
   margin: 0;
 }
 
 h2 {
   color: #4b3621;
   font-size: 30px;
-  margin-left: 4px;
-  margin-right: 4px;
+  margin-left: 0.6%;
+  margin-right: 0.6%;
 }
 
 a:hover {
@@ -53,16 +53,13 @@ a:hover {
 
 #Logo {
   float: left;
-  margin-top: 10px;
+  margin-top: 1.5%;
   width: 52px;
   height: 52px;
-  padding-right: 14px;
+  padding-right: 1.5%;
 }
 
-#Sol {
-  float: right;
-  margin-top: 10px;
-}
+
 
 img,
 iframe {
@@ -70,7 +67,7 @@ iframe {
 }
 .theme-switcher {
   position: relative;
-  right: 13px;
+  right: 2%;
 }
 
 input {
