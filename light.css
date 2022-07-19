@@ -6,14 +6,17 @@ body {
 }
 #Principal {
   margin-top: 14%;
-  margin-bottom: -7%;
+  margin-bottom: -4%;
   
 }
 .Pagina-inicial {
   color: #2e3440;
   font-size: 25px;
   text-align: center;
-  padding: 70px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 10%;
+  padding-bottom: 10%;
   background-size: 100px;
   border: solid;
   border-radius: 59px;
@@ -54,8 +57,8 @@ a:hover {
 #Logo {
   float: left;
   margin-top: 1.5%;
-  width: 52px;
-  height: 52px;
+  width: 4%;
+  height: 8%;
   padding-right: 1.5%;
 }
 
@@ -132,7 +135,7 @@ input:checked+label {
 .cabecalho {
   display: flex;
   justify-content: center;
-  border: solid 5px #964b00;
+  border: solid 0.3% #964b00;
   position: fixed;
   top: 0;
   align-items: center;
@@ -187,7 +190,7 @@ img:not(#Logo) {
   margin-right: auto;
   border: solid;
   border-color: #964b00;
-  border-width: 5px;
+  border-width: 0.07%;
 }
 .racas{
   text-align: center;
@@ -199,15 +202,15 @@ img:not(#Logo) {
   margin: 30px 60px 30px 60px;
 }
 .topo{
-  margin-top: 100px;
+  margin-top: 15.97%;
 }
 .corridas h2{
   text-align: center;
 }
 .corridas p{
   text-align: justify;
-  margin-right: 50px;
-  margin-left: 50px;
+  margin-right: 3.7%;
+  margin-left: 7.987%;
 }
 @media (max-width: 650px){
   .cabeçalho ul{
