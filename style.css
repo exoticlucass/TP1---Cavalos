@@ -5,7 +5,7 @@ body {
   margin: 0;
 }
 #img-cavalo {
-margin-top: 10px;
+margin-top: 15px;
 }
 #Titulo-principal {
   padding-top: 7%;
@@ -62,7 +62,7 @@ a:hover {
 
 #Logo {
   float: left;
-  margin-top: 10px;
+  margin-top: 15px;
   width: 52px;
   height: 52px;
   padding-right: 14px;
