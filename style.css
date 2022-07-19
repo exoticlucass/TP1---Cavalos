@@ -4,7 +4,9 @@ body {
   margin-top: 0;
   margin: 0;
 }
-
+#img-cavalo {
+margin-top: 10px;
+}
 #Titulo-principal {
   padding-top: 7%;
 }
@@ -226,6 +228,9 @@ img:not(#Logo) {
 }
 .Easteregg{
   text-decoration: none;
+}
+.escuro #img-cavalo {
+margin-top: 10px;
 }
 .escuro .Pagina-inicial {
   color: #D8DEE9;
