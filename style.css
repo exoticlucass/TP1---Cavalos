@@ -450,6 +450,7 @@ img:not(#Logo) {
   background-color: antiquewhite;
   padding: 50px 50px 40px 40px;
   margin: 30px 60px 30px 60px;
+  text-align: center;
 }
 .topo{
   margin-top: 100px;
@@ -470,6 +471,7 @@ img:not(#Logo) {
   background-color: rgb(50, 65, 95);
   padding: 50px 50px 40px 40px;
   margin: 30px 60px 30px 60px;
+  text-align: center;
 }
 .escuro .topo{
   margin-top: 100px;
