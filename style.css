@@ -197,7 +197,11 @@ input:checked+label {
   margin-right: 20%;
 }
 
-iframe,
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
 img:not(#Logo) {
   display: block;
   margin-left: auto;
@@ -425,7 +429,11 @@ img:not(#Logo) {
   margin-right: 20%;
 }
 
-.escuro iframe,
+.escuro iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
 .escuro img:not(#Logo) {
   display: block;
   margin-left: auto;
