@@ -441,3 +441,43 @@ img:not(#Logo) {
 .escuro iframe {
   text-align: center;
 }
+.racas{
+  text-align: center;
+}
+.racas p{
+  border-radius: 200px;
+  background-color: antiquewhite;
+  padding: 50px 50px 40px 40px;
+  margin: 30px 60px 30px 60px;
+}
+.topo{
+  margin-top: 100px;
+}
+.corridas h2{
+  text-align: center;
+}
+.corridas p{
+  text-align: justify;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.escuro .racas{
+  text-align: center;
+}
+.escuro .racas p{
+  border-radius: 200px;
+  background-color: antiquewhite;
+  padding: 50px 50px 40px 40px;
+  margin: 30px 60px 30px 60px;
+}
+.escuro .topo{
+  margin-top: 100px;
+}
+.escuro .corridas h2{
+  text-align: center;
+}
+.escuro .corridas p{
+  text-align: justify;
+  margin-right: 50px;
+  margin-left: 50px;
+}
