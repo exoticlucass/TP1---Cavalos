@@ -197,13 +197,13 @@ input:checked+label {
   margin-right: 20%;
 }
 
-iframe,
+iframe
 img:not(#Logo) {
   display: block;
   margin-left: auto;
   margin-right: auto;
   border: solid;
-  border-color: #ebcb8b;
+  border-color: #964b00;
   border-width: 4px;
 }
 
