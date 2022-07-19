@@ -484,3 +484,7 @@ img:not(#Logo) {
 }
 .corridas iframe{
   margin-bottom: 50px;
+}
+#baixo{
+  margin-bottom: 50px;
+}
