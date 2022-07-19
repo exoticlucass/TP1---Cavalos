@@ -207,4 +207,10 @@ iframe{
 .topo{
   margin-top: 100px;
 }
-
+@media (max-width: 650px){
+  .cabeçalho ul{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+  }
+}
