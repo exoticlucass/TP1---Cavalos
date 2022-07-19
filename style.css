@@ -490,3 +490,15 @@ img:not(#Logo) {
 #baixo{
   margin-bottom: 50px;
 }
+.lista1{
+  font-size: 20px;
+  text-align: justify;
+  margin: 0.5%;
+  color: #2e3440;
+}
+.escuro .lista1{
+  font-size: 20px;
+  text-align: justify;
+  margin: 0.5%;
+  color: #D8DEE9;
+}
