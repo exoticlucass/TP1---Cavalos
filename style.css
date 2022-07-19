@@ -482,3 +482,5 @@ img:not(#Logo) {
   margin-right: 50px;
   margin-left: 50px;
 }
+.corridas iframe{
+  margin-bottom: 50px;
