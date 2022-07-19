@@ -5,10 +5,10 @@ body {
   margin: 0;
 }
 #img-cavalo {
-margin-top: 30px;
+margin-top: 200px;
 }
 #Titulo-principal {
-  padding-top: 7%;
+  margin-top: 15%;
 }
 
 p {
@@ -230,7 +230,7 @@ img:not(#Logo) {
   text-decoration: none;
 }
 .escuro #img-cavalo {
-margin-top: 30px;
+margin-top: 200px;
 }
 .escuro .Pagina-inicial {
   color: #D8DEE9;
@@ -290,7 +290,7 @@ margin-top: 30px;
 }
 
 .escuro #Titulo-principal {
-  padding-top: 7%;
+  margin-top: 15%;
 }
 
 .escuro #Logo {
